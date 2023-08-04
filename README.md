@@ -1,1 +1,1 @@
-# neural-network-labs
+# Pattern-Recognition-and-Neural-Network-labs
